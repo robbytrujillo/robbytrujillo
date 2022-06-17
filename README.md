@@ -4,10 +4,11 @@
 
 I am a person who likes to learn new technologies, especially programming languages. Hopefully the technology that I created can be useful for others.
 
-- 🌱 I’m currently working on Ibnu Hajar Boarding School as a IT Support 😊
-- ⛳️ 2022 Goals: Success in learning and producing something useful for many people.
-- ⚡ Fun fact: Coders, Hiking, And Futsal.
+- I’m currently working on Ibnu Hajar Boarding School as a IT Support 😊
+- Target: Success in learning and producing something useful for many people.
+- I have a hobby of coding, hiking, and futsal.
 
+<!--
 ### Connect with me:
 
 [<img alt="Youtube" src="https://img.shields.io/badge/hello altop%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>][youtube]
@@ -70,7 +71,7 @@ I am a person who likes to learn new technologies, especially programming langua
 [email]: mailto:hello.adityarohman@gmail.com
 
 <!--
-**helloaltop/helloaltop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**robbytrujillo/robbytrujillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
