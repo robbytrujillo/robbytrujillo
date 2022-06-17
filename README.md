@@ -1,12 +1,12 @@
 [![Header](asset/banner-robby.png)](https://robbytrujillo.com/)
 
-## I'm Software Developer!
+## I'm Freelance And Junior Programmer!
 
-Saya seorang yang suka membuat teknologi. Hal yang paling saya suka adalah melihat teknologi yang saya buat mampu membantu banyak orang dalam beraktifitas dan menggapai mimpi mereka.
+I am a person who likes to learn new technologies, especially programming languages. Hopefully the technology that I created can be useful for others.
 
-- 🌱 I’m currently working on Edutech Company as a VP of Engineering 😊
-- ⛳️ 2022 Goals: Create Technology Content Course at Youtube
-- ⚡ Fun fact: -
+- 🌱 I’m currently working on Ibnu Hajar Boarding School as a IT Support 😊
+- ⛳️ 2022 Goals: Success in learning and producing something useful for many people.
+- ⚡ Fun fact: Coders, Hiking, And Futsal.
 
 ### Connect with me:
 
