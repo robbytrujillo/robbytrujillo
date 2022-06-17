@@ -50,9 +50,9 @@ I am a person who likes to learn new technologies, especially programming langua
 
 ---
 
-[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=helloaltop&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=robbytrujillo&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloaltop&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robbytrujillo&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/codestronaut1
 [youtube]: https://www.youtube.com/channel/UCV7Bd93A30b1YoyZPBOTbFg
