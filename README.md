@@ -56,8 +56,8 @@ I am a person who likes to learn new technologies, especially programming langua
 
 [twitter]: https://twitter.com/codestronaut1
 [youtube]: https://www.youtube.com/channel/UCV7Bd93A30b1YoyZPBOTbFg
-[instagram]: https://www.instagram.com/helloaltop/
-[linkedin]: https://www.linkedin.com/in/helloaltop/
+[instagram]: https://www.instagram.com/robbyilhkus/
+[linkedin]: https://www.linkedin.com/in/robby-ilhamkusuma-b9b601168/
 [tipsplaylist]: https://www.youtube.com/playlist?list=PL7fkRVRcqd3mwovrYCSQQtBY0hhjGadGx
 [codewarsplaylist]: https://www.youtube.com/playlist?list=PL7fkRVRcqd3lN-9RmNUyikC5MSm0rlE86
 [android]: https://developer.android.com
@@ -68,6 +68,7 @@ I am a person who likes to learn new technologies, especially programming langua
 [python]: https://www.python.org/
 [kotlin]: https://kotlinlang.org
 [java]: https://www.oracle.com/java/technologies/javase-downloads.html
+[sql]: https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 [email]: mailto:hello.adityarohman@gmail.com
 
 <!--
