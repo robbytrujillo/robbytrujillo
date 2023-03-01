@@ -1,10 +1,10 @@
 [![Header](asset/banner-robby.png)](https://robbytrujillo.com/)
 
-## I'm Freelance And Junior Programmer!
+## I'm Junior Fullstack Developer And Freelance!
 
 I am a person who likes to learn new technologies, especially programming languages. Hopefully the technology that I created can be useful for others.
 
-- I’m currently working on Ibnu Hajar Boarding School as a IT Support 😊
+- I currently work at a boarding school in Jakarta as IT Support 😊
 - Target: Success in learning and producing something useful for many people.
 - I have a hobby of coding, hiking, and futsal.
 
