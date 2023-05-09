@@ -1,6 +1,6 @@
 [![Header](asset/banner-robby.png)](https://robbytrujillo.com/)
 
-## I'm Junior Fullstack Developer And Freelance!
+## I'm Fullstack Developer And Freelance!
 
 I am a person who likes to learn new technologies, especially programming languages. Hopefully the technology that I created can be useful for others.
 
