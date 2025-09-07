@@ -4,7 +4,7 @@
 
 I am a person who likes to learn new technologies, especially programming languages. Hopefully the technology that I created can be useful for others.
 
-- I currently work at a boarding school in Jakarta as IT Support 😊
+- I currently work at a boarding school in Jakarta as IT Development 😊
 - Target: Success in learning and producing something useful for many people.
 - I have a hobby of coding, hiking, and futsal.
 
