@@ -69,7 +69,7 @@ I am a person who likes to learn new technologies, especially programming langua
 [kotlin]: https://kotlinlang.org
 [java]: https://www.oracle.com/java/technologies/javase-downloads.html
 [sql]: https://www.microsoft.com/en-us/sql-server/sql-server-downloads
-[email]: mailto:hello.adityarohman@gmail.com
+[email]: mailto:robbyikusuma88@gmail.com
 
 <!--
 **robbytrujillo/robbytrujillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
